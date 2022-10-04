@@ -22,5 +22,5 @@
 
 ### Hackaton Awards
 
-- 🥇 Best Protocol hack - ETHGlobal NFTHack
-- 🥇 Zorb's hack choice - ETHGlobal NFTHack
+- 🥇 Best Protocol Hack - ETHGlobal NFTHack
+- 🥇 Zorb's Hack Choice - ETHGlobal NFTHack
