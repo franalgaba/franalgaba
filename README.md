@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Cloud, ML, MLOps, Ethereum, StarkNet, Cairo**
 
-- 📫 How to reach me **f.algaba.work@gmail.com**
+- 📫 How to reach me **fran@gizatech.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
